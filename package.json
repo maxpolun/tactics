@@ -1,0 +1,39 @@
+{
+  "name": "tactics",
+  "version": "1.0.0",
+  "description": "tactical RPG",
+  "main": "index.js",
+  "repository": "maxpolun/tactics",
+  "author": "Max Polun <maxpolun@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/gl-matrix": "^2.2.34",
+    "@types/react": "^16.0.3",
+    "@types/react-dom": "^15.5.4",
+    "@types/three": "^0.84.19",
+    "css-loader": "^0.28.5",
+    "file-loader": "^0.11.2",
+    "fork-ts-checker-webpack-plugin": "^0.2.6",
+    "gl-matrix": "^2.3.2",
+    "html-webpack-harddisk-plugin": "^0.1.0",
+    "html-webpack-plugin": "^2.29.0",
+    "json-loader": "^0.5.7",
+    "raw-loader": "^0.5.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "style-loader": "^0.18.2",
+    "three": "^0.86.0",
+    "three-orbit-controls": "^82.1.0",
+    "ts-loader": "^2.2.2",
+    "tslint": "^5.5.0",
+    "tslint-config-standard": "^6.0.1",
+    "typescript": "^2.4.1",
+    "webpack": "^3.2.0",
+    "webpack-dev-server": "^2.5.1"
+  },
+  "scripts": {
+    "test": "standard --fix",
+    "build": "webpack",
+    "dev": "webpack-dev-server --hot --inline"
+  }
+}
