@@ -6,6 +6,10 @@
   version "2.2.34"
   resolved "https://registry.yarnpkg.com/@types/gl-matrix/-/gl-matrix-2.2.34.tgz#8d1b5557d9143e9692b7b2083c56a5adc8113104"
 
+"@types/prop-types@^15.5.1":
+  version "15.5.1"
+  resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.5.1.tgz#1ecf52621299e65b855374337fb11fd2d1066fc1"
+
 "@types/react-dom@^15.5.4":
   version "15.5.4"
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-15.5.4.tgz#3f75ba86a2ce9a7d1d9e7d1ee3f186f3a9652d8f"

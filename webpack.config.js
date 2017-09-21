@@ -27,6 +27,10 @@ module.exports = {
       {
         test: /\.glsl(f|v)?$/,
         loader: 'raw-loader'
+      },
+      {
+        test: /\.css$/,
+        loader: 'style-loader!css-loader'
       }
     ]
   },

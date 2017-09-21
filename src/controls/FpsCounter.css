@@ -1,0 +1,10 @@
+.fps-counter {
+  position: absolute;
+  bottom: 5px;
+  color: '#ccc';
+}
+
+.fps-label {
+  font-weight: 800;
+}
+
